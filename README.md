@@ -15,6 +15,7 @@ Este es un ejemplo de un servidor básico creado con Nodejs, Express y hbs.
     * **:open_file_folder: helpers/**
          1. *:page_facing_up: hbs.js*
     * **:open_file_folder: routes/**
+        1. *:page_facing_up: index.js*
     * **:open_file_folder: sass/**
          - **:open_file_folder: components/**
          - *:page_facing_up: materialize.scss*
