@@ -10,7 +10,7 @@ Este es un ejemplo de un servidor básico creado con Nodejs, Express y hbs.
     * **:open_file_folder: js/**
         1. *:page_facing_up: scripts.js*
     * *:page_facing_up: favicon.png*
-* **:open_file_folder: server**
+* **:open_file_folder: server/**
     * **:open_file_folder: db/**
     * **:open_file_folder: helpers/**
          1. *:page_facing_up: hbs.js*
