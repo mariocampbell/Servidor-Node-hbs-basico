@@ -27,7 +27,7 @@ Este es un ejemplo de un servidor básico creado con Nodejs, [Express](http://ex
              + *:page_facing_up: navbar.hbs*
              + **:open_file_folder: components/**
                 * *:page_facing_up: button.hbs*
-         - *layout.hbs*
+         - *:page_facing_up: layout.hbs*
 - *:page_facing_up: app.js*
 - *:page_facing_up: config.js*
 - *:page_facing_up: package.json*
