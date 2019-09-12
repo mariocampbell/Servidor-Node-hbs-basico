@@ -1,6 +1,6 @@
 # Servidor Node Basico (express-hbs)
 
-Este es un ejemplo de un servidor básico creado con Nodejs, Express y hbs.
+Este es un ejemplo de un servidor básico creado con Nodejs, Express y [hbs](https://github.com/pillarjs/hbs).
 
 ---
 ### Distribución de carpetas y archivos.
