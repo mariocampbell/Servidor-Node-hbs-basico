@@ -4,16 +4,16 @@ Este es un ejemplo de un servidor básico creado con Nodejs, Express y hbs.
 
 ---
 ### Distribución de carpetas y archivos.
-* **Public/**
+* **:open_file_folder: Public/**
     * **css/**
     * **img/**
     * **js/**
-        * *scripts.js*
+        1. *scripts.js*
     * *favicon.png*
 * **server**
     * **db/**
     * **helpers/**
-         * *hbs.js*
+         1. *hbs.js*
     * **routes/**
     * **sass/**
          - **components/**
