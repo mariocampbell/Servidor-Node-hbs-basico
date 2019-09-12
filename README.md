@@ -5,24 +5,24 @@ Este es un ejemplo de un servidor básico creado con Nodejs, Express y hbs.
 ---
 ### Distribución de carpetas y archivos.
 * **:open_file_folder: Public/**
-    * **css/**
-    * **img/**
-    * **js/**
+    * **:open_file_folder: css/**
+    * **:open_file_folder: img/**
+    * **:open_file_folder: js/**
         1. *scripts.js*
     * *favicon.png*
-* **server**
-    * **db/**
-    * **helpers/**
+* **:open_file_folder: server**
+    * **:open_file_folder: db/**
+    * **:open_file_folder: helpers/**
          1. *hbs.js*
-    * **routes/**
-    * **sass/**
-         - **components/**
+    * **:open_file_folder: routes/**
+    * **:open_file_folder: sass/**
+         - **:open_file_folder: components/**
          - *materialize.scss*
          - *style.scss*
-    * **views/**
-         - **pages/**
+    * **:open_file_folder: views/**
+         - **:open_file_folder: pages/**
             + *home.hbs*
-         - **partials/**
+         - **:open_file_folder: partials/**
              + *navbar.hbs*
              + **components/**
                 * *button.hbs*
