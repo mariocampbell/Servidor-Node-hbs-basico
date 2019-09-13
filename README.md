@@ -4,31 +4,31 @@ Este es un ejemplo de un servidor básico creado con Nodejs, [Express](http://ex
 
 ---
 ### Distribución de carpetas y archivos.
-* Public/
-    * css/
-    * img/
-    * js/
-        1. scripts.js
-    * favicon.png
-* server/
-    * db/
-        1. data.json
-    * helpers/
-         1. hbs.js
-    * routes/
-        1. index.js
-    * sass/
-         - components/
-         - materialize.scss
-         - style.scss
-    * views/
-         - pages/
-            1. home.hbs
-         - partials/
-             + components/
-                1. button.hbs
-             + navbar.hbs
-         - layout.hbs
-- app.js
-- config.js
-- package.json
+* __Public/__
+    * __css/__
+    * __img/__
+    * __js/__
+        1. _scripts.js_
+    * _favicon.png_
+* __server/__
+    * __db/__
+        1. _data.json_
+    * __helpers/__
+         1. _hbs.js_
+    * __routes/__
+        1. _index.js_
+    * __sass/__
+         - __components/__
+         - _materialize.scss_
+         - _style.scss_
+    * __views/__
+         - __pages/__
+            1. _home.hbs_
+         - __partials/__
+             + __components/__
+                1. _button.hbs_
+             + _navbar.hbs_
+         - _layout.hbs_
+- _app.js_
+- _config.js_
+- _package.json_
