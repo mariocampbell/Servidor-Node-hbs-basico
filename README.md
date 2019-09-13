@@ -12,6 +12,7 @@ Este es un ejemplo de un servidor básico creado con Nodejs, [Express](http://ex
     * favicon.png
 * server/
     * db/
+        1. data.json
     * helpers/
          1. hbs.js
     * routes/
@@ -27,7 +28,7 @@ Este es un ejemplo de un servidor básico creado con Nodejs, [Express](http://ex
              + navbar.hbs
              + components/
                 1. button.hbs
-         - layout.hbs*
+         - layout.hbs
 - app.js
 - config.js
 - package.json
