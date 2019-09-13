@@ -25,9 +25,9 @@ Este es un ejemplo de un servidor básico creado con Nodejs, [Express](http://ex
          - pages/
             1. home.hbs
          - partials/
-             + navbar.hbs
              + components/
                 1. button.hbs
+             + navbar.hbs
          - layout.hbs
 - app.js
 - config.js
